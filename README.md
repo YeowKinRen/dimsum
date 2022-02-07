@@ -1,2 +1,2 @@
-# jubilant-winner
+# Dimsum
 Image Processing Notebook
